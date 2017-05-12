@@ -17,6 +17,8 @@ Then make the following changes:
 3. Find the place where it says `<!-- Add your Bootstrap components here -->`.
 4. Read about Bootstrap's [card component](https://v4-alpha.getbootstrap.com/components/card/). Then add two or three card components to your new page.
 
+## Step 2: Branching and Pull Requests
+
 Once we've done the group exercise on branching and pull requests with git, you'll need to create a branch, commit your changes and push them up to your repository:
 
 1. `git checkout -b my_first_branch`
