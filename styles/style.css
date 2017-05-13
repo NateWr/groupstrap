@@ -14,3 +14,16 @@ body {
 /**
  * Add your styles below
  */
+.card{
+	width:100%;
+	display: flex;
+	flex-direction: row;
+}
+.card-block{
+	width: 50%;
+	
+}
+.card-img-top{
+	width: 50%;
+	height: 50%;
+}
