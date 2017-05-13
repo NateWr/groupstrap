@@ -14,3 +14,6 @@ body {
 /**
  * Add your styles below
  */
+.card-img-top{
+	width: 100px;
+}
