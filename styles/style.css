@@ -1,5 +1,5 @@
 body {
-	background: #eee;
+	background: #6e5757;
 }
 
 .container {
@@ -10,7 +10,14 @@ body {
 	width: auto;
 	max-height: 40px;
 }
-
+.card img{
+	max-width: 400px;
+	max-height: 350px;
+}
+.site-content{
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
 /**
  * Add your styles below
  */
