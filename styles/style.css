@@ -14,3 +14,15 @@ body {
 /**
  * Add your styles below
  */
+
+ .card{
+	
+	 margin:  50 auto;
+	width: 50%;
+	height: 50%;
+	border: solid;
+ }
+ .card .card-img-top{
+	width: 100%;
+	height: 50%;
+ }
