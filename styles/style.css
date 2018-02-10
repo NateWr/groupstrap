@@ -10,6 +10,9 @@ body {
 	width: auto;
 	max-height: 40px;
 }
+.card-img-top{
+	height:150px;
+}
 
 /**
  * Add your styles below
