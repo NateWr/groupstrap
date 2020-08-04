@@ -15,7 +15,8 @@ body {
   padding: 30px;
 }
 
-.card h5 {
+.card h5,
+p {
   text-align: center;
 }
 
