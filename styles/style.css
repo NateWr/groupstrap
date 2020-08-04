@@ -14,3 +14,12 @@ body {
 /**
  * Add your styles below
  */
+.cards{display:flex;
+justify-content:center;
+}
+
+.card{display:flex;
+justify-content:center;
+text-align:center;
+margin:15px;
+}
