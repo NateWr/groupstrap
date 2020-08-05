@@ -11,6 +11,9 @@ body {
 	max-height: 40px;
 }
 
+div img{
+	width: 30%;
+}
 /**
  * Add your styles below
  */
