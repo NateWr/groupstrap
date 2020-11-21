@@ -13,9 +13,35 @@ git clone git@github.com:<your_username>/groupstrap.git
 Then make the following changes:
 
 1. Create a new page named `<your_username>.html`.
+
 2. Copy the contents of `index.html` to `<your_username>.html`.
 3. Find the place where it says `<!-- Add your Bootstrap components here -->`.
 4. Read about Bootstrap's [card component](https://v4-alpha.getbootstrap.com/components/card/). Then add two or three card components to your new page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Step 2: Branching and Pull Requests
 
