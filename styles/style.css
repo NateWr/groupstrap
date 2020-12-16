@@ -1,16 +1,28 @@
 body {
-	background: #eee;
+	background: black;
 }
 
 .container {
-	background: #fff;
+	background:yellow;
 }
 
 .navbar-brand img {
 	width: auto;
 	max-height: 40px;
 }
-
 /**
  * Add your styles below
  */
+
+ .card {
+	 display: inline;
+	 align-items: center;
+	 background-color: green;
+	 color: white;
+ }
+ .card-footer {
+	 background-color: red;
+	 display: initial;
+ }
+
+ 
