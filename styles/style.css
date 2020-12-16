@@ -14,3 +14,21 @@ body {
 /**
  * Add your styles below
  */
+
+ .fish {
+	width: 20rem; 
+  display: flex;
+  align-items: center;
+ }
+
+ .flower {
+	width: 20rem;
+	display: flex;
+	align-items: center;
+ }
+
+ .bird {
+	width: 20rem;
+	display: flex;
+	align-items: center;
+ }
