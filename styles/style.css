@@ -14,3 +14,14 @@ body {
 /**
  * Add your styles below
  */
+ .col{
+	display: flex;
+	flex-direction: row;
+	margin: 3em;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+
+.card{
+	margin-bottom: 2em;
+}
