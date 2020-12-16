@@ -1,34 +1,28 @@
 body {
-	background: #eee;
+	background: black;
 }
 
 .container {
-	background: #fff;
+	background:yellow;
 }
 
 .navbar-brand img {
 	width: auto;
 	max-height: 40px;
 }
-
 /**
  * Add your styles below
  */
 
- .fish {
-	width: 20rem; 
-  display: flex;
-  align-items: center;
+ .card {
+	 display: inline;
+	 align-items: center;
+	 background-color: green;
+	 color: white;
+ }
+ .card-footer {
+	 background-color: red;
+	 display: initial;
  }
 
- .flower {
-	width: 20rem;
-	display: flex;
-	align-items: center;
- }
-
- .bird {
-	width: 20rem;
-	display: flex;
-	align-items: center;
- }
+ 
