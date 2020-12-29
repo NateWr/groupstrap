@@ -1,14 +1,35 @@
 body {
-	background: #eee;
+	background: rgb(211, 117, 117);
 }
 
 .container {
-	background: #fff;
+	background: rgb(42, 182, 123);
 }
 
 .navbar-brand img {
 	width: auto;
 	max-height: 40px;
+}
+
+.main-text {
+	color: rgb(81, 12, 184);
+	margin-top: auto;
+	font-size: 20px;
+	text-decoration: cadetblue;
+}
+
+.nav2 {
+	background-color: chartreuse;
+	margin-left: auto;
+}
+
+li {
+	padding: 30px;
+	font-size: 20px;
+}
+
+li:hover {
+	color: red
 }
 
 /**
