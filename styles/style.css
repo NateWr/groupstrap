@@ -17,3 +17,10 @@ body {
 .cards {
     margin: 50px 0;
 }
+
+.footer {
+    color: whitesmoke;
+    background-color: #292B2C;
+    text-align: center;
+    padding-top: 10px;
+}
