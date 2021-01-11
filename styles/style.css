@@ -1,4 +1,4 @@
-body {
+/*sbody {
 	background: #eee;
 }
 
@@ -10,7 +10,21 @@ body {
 	width: auto;
 	max-height: 40px;
 }
+*/
 
 /**
  * Add your styles below
  */
+
+ .container > div{
+	background-color: rgb(94, 94, 99);
+	padding: 1em;
+ }
+.container {
+	display: grid;
+}
+ .card > div {
+	 background-color: lightblue;
+	 padding: 1em;
+	 
+ }
