@@ -37,7 +37,33 @@
 				<div class="col">
 
 					<!-- Add your Bootstrap components here -->
-				
+                    <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                          <li class="breadcrumb-item"><a href="#">Home</a></li>
+                          <li class="breadcrumb-item active" aria-current="page">Library</li>
+                        </ol>
+                      </nav>
+                    <div class="dropdown">
+						<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+						  Dropdown button
+						</button>
+						<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+						  <li><a class="dropdown-item" href="#">Action</a></li>
+						  <li><a class="dropdown-item" href="#">Another action</a></li>
+						  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        </ul>
+                        <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+                            <div class="toast-header">
+                              <img src="..." class="rounded me-2" alt="...">
+                              <strong class="me-auto">Bootstrap</strong>
+                              <small>11 mins ago</small>
+                              <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                            </div>
+                            <div class="toast-body">
+                              Hello, world! This is a toast message.
+                            </div>
+                          </div>
+					  </div>
 				</div>
 			</div>
 		</div>
