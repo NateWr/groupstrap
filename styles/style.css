@@ -14,3 +14,8 @@ body {
 /**
  * Add your styles below
  */
+.content__wrapper-layout {
+
+	display:flex;
+	justify-content: space-around;
+}
