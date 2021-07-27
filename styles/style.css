@@ -1,16 +1,30 @@
 body {
-	background: #eee;
+	background: #b5838d
 }
 
 .container {
-	background: #fff;
+	background: #c9ada7;
 }
 
 .navbar-brand img {
 	width: auto;
 	max-height: 40px;
 }
+.text-center{
+	background-color: #fff1e6;
+}
+.card-body{
+background-color:#cbc0d3;
+margin-bottom: 50px;
+padding: 30px 0;
 
+}
+#content h2,p{
+	text-align: center;
+}
+.col{
+	padding: 0;
+}
 /**
  * Add your styles below
  */
