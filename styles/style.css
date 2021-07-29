@@ -14,3 +14,16 @@ body {
 /**
  * Add your styles below
  */
+
+ .card-deck {
+	 margin-top: 2rem;
+	 margin-bottom: 2rem;
+ }
+
+ .card img {
+	 width: 100%;
+ }
+
+ .card h5, p {
+	 text-align: center;
+ }
