@@ -4,6 +4,7 @@ body {
 
 .container {
 	background: #fff;
+	padding: 15px;
 }
 
 .navbar-brand img {
@@ -14,3 +15,25 @@ body {
 /**
  * Add your styles below
  */
+
+ .site-content, .card-img-top {
+	display: flex;
+	justify-content: center;
+ }
+
+ .card-img-top {
+	 margin: 10px;
+	 padding: 15px;
+	 width: 250px;
+	 height: 250px;
+ }
+
+ .card {
+	margin: 10px;
+	padding: 5px;
+}
+
+ .img-fluid {
+	 margin-bottom: 15px;
+	 /* padding: 20px; */
+ }
