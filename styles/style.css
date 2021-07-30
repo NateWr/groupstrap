@@ -1,16 +1,25 @@
 body {
-	background: #eee;
+  background: #eee;
 }
 
 .container {
-	background: #fff;
+  background: #fff;
 }
 
 .navbar-brand img {
-	width: auto;
-	max-height: 40px;
+  width: auto;
+  max-height: 40px;
 }
 
 /**
  * Add your styles below
  */
+.card-body img {
+  height: 15rem;
+  width: 15rem;
+}
+
+.card-text {
+  font-family: monospace;
+  text-align: center;
+}
