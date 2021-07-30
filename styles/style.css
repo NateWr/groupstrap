@@ -14,3 +14,12 @@ body {
 /**
  * Add your styles below
  */
+.card-body img {
+  height: 15rem;
+  width: 15rem;
+}
+
+.card-text {
+  font-family: monospace;
+  text-align: center;
+}
