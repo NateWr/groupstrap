@@ -14,3 +14,17 @@ body {
 /**
  * Add your styles below
  */
+
+.card-img-overlay{
+	color: black;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ .card-img{
+	width: 900px;
+	height: 900px;
+ }
+
+ .card-body{
+	margin: 10px;
+ }
